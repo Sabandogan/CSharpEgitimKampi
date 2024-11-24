@@ -1,5 +1,12 @@
 ## Projeler
 
+### Bu projede entity framework kullanarak çeşitli raporlar yazdık. 
+&nbsp;
+![goruntu](https://github.com/user-attachments/assets/387a7316-17d3-4dcc-93f4-05c2f76c8174)
+
+
+
+
 ### 🧩 Proje 1: Merhaba Dünya!
 - **Açıklama:** C# diline giriş yaptım.
 - **Öğrendiklerim:** `Console.WriteLine()` komutu ile ekrana yazı yazdırmayı öğrendim. C# dilinin temel çalışma yapısını kavradım.
